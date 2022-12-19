@@ -148,7 +148,7 @@ services:
 
   ```
 
-4.WORDPRESS
+5.WORDPRESS
 
 ```
 
